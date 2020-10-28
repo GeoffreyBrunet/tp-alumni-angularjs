@@ -1,0 +1,10 @@
+<div class="row">
+    <div class="col" ng-repeat="member in $ctrl.members">
+        <div>
+            <span>{{ member.firstName }}</span>
+            <span>{{ member.lastName }}</span>
+            <span>{{ member.promo }}</span>
+            <span><img ng-src="{{ member.avatar }}"></span>
+        </div>
+    </div>
+</div>

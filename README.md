@@ -1,16 +1,16 @@
 # tp-alumni-angularjs
 
 ## Install needed packages:
-'''shell
+```shell
 npm install
-'''
+```
 
 ## Starting the app:
-'''shell
+```shell
 npm run start
-'''
+```
 
 ## Accesing to website:
-'''
+```
 http://localhost:8000
-'''
+```
